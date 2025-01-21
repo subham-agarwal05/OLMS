@@ -1,1 +1,0 @@
-void printc(char *text);
